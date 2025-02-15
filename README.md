@@ -1,4 +1,4 @@
-Jogo da Soma
+##Jogo da Soma
 
 ## Descrição
 O **Jogo da Soma** é um jogo educativo desenvolvido para a placa **BitDogLab**, baseada no microcontrolador **RP2040** da Raspberry Pi Pico W. O objetivo do jogo é testar a habilidade do jogador em identificar se uma soma apresentada está correta ou não, utilizando os botões para responder. O jogo fornece feedback visual através de um display OLED e auditivo com um buzzer em caso de erro.
